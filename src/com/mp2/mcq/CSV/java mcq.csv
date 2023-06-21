@@ -1,0 +1,10 @@
+1,Which component is used to compile debug and execute the java programs?,JRE,JIT,JDK,JVM,c
+2,What is the extension of java code files?,.js,.txt,.class,.java,d
+3,Which of the following is not an OOPS concept in Java?,polymorphism,Inheritance,Compilation,Encapsulation,c
+4,What JDK means ?,Java Dependency Kit,Java Development Kit,Java Demonstration Kit,Java Decompiler Kit,b
+5,Which tool is used to run java program?,JVM,JDK,JIT,JRE,d
+6,What is the extension of compiled java classes?,.class,.java,.txt,.js,a
+7,Javac is used to?,Converts java file to class file,Converts class file to java file,Converts java file to object file,Interprets java code,a
+8,What is the data type for a number?,String,Char,Integer,Float,c
+9,How to comment in a java file?,/*comment*/,// comment,!! Comment,<!-- comment-- >,b
+10,Arrays in java are-,Object references,Objects,Primitive data type,None of the above,b

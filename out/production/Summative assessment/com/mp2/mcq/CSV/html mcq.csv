@@ -1,0 +1,10 @@
+1,HTML is what type of language?,Scripting Language,Markup Language,Programming Language,Network Protocol,b
+2,How many number of heading tags available in HTML?,2,5,6,1,c
+3,How to create an ordered list in HTML?,<ol>,<href>,<ul>,<d>,a
+4,We enclose HTML tags within?,{ },< >,!!,Non of the above,b
+5,Which of the following is correct about HTML?,HTML uses User Defined Tags,HTMl uses tags defined within the language,Both a and b,None of the above,b
+6,what is the function of the HTML style attribute?,It is used to add style to an HTML element,It is used to uniquely identify some specific styles of some element,Both a and b,None of the above,a
+7,What is the correct syntax to write an HTML comment?,<!--comment-->,// comment,# comment,/*comment */,a
+8,Which property is used to set colors in HTML?,color,background-color,font-color,text-color,a
+9,which of the following things are necessary to create an HTML page?,A text editor ,Web browser,Both a and b,None of the above,b
+10,what are the main components of the front end of any working website?,HTML & CSS & Javascript,HTML only,Javascript only,CSS only,a

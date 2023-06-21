@@ -1,0 +1,10 @@
+1,Which one of the following is a keyword?,Size,Key,Jump,Switch,d
+2,What is a constant that contains a single character enclosed within single quotes?,Character,Numeric,Fixed,Floating point,a
+3,The modulus operator uses ___ character.,+,*,/,%,d
+4,Every variable should be separated by ___ separator.,Dot,Colon,Comma,Semicolon,c
+5,How many storage specifies are there in a C++?,2,3,4,5,c
+6,How many C++ data types are broadly classified?,2,3,4,5,b
+7,Float and double are related to ____ data type.,Void,Floating,Fixed,integral,b
+8,Variable names must begin with ___,#,Number,$,Letter,d
+9,What are bitwise operators?,&,!,^,All (a, b and c),d
+10,What is the other name for variable?,While,Visual,Identifier,Constant,c

@@ -1,0 +1,10 @@
+1,Javascript is  _______ language?,Scripting,Object -Based,Procedural,None of the above,a
+2,JavaScript is ______ Side Scripting Language.,Server,None of the above,ISP,Browser,d
+3,JavaScript is designed for following purpose -,To style HTML pages,To perform server side scripting operation,To add interactivity to HTML pages,To execute Query related To DB on server,c
+4,JavaScript is an ________ language.,Interpreted,Compiled,Both a and b,intermediate,a
+5,JavaScript Statements are executed by ________ .,Server,JVM,Browser,Compiler,c
+6,JavaScript Statement terminated by ______________ ,Semicolon,Slash,Comma,Full Stop,a
+7,JavaScript code contain sequence of ___________.,Executable Statements,All of these,Method calls,Expressions,b
+8,Which of the following statement is used to declare variable in JavaScript,Assignment Statement,Conditional Statement,Declaration Statement,Executable Statement,c
+9,Variable can hold ________ value at a time,None of these,single,Double,Multiple,b
+10,______ tag is an extension to HTML that can enclose any number of JavaScript statements.,<SCRIPT>,<BODY>,<HEAD>,<TITLE>,a
